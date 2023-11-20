@@ -2,3 +2,4 @@
 This repository is used for testing the [Deploy-to-Grading](https://github.com/Programmiermethoden/Deploy-to-Grading) toolchain.
 
 Dummy change
+New change
